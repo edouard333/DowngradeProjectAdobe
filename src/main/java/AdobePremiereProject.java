@@ -30,7 +30,7 @@ public class AdobePremiereProject {
     /**
      * Version CC2015 d'Adobe Premiere Pro.
      */
-    public static final String VERSION_CC2015 = "?";
+    public static final String VERSION_CC2015 = "31";
 
     /**
      * Version CC2017 d'Adobe Premiere Pro (version 11.0).
@@ -43,49 +43,49 @@ public class AdobePremiereProject {
     public static final String VERSION_CC2017_1_2 = "33";
 
     /**
-     * Version CC2018 d'Adobe Premiere Pro (version 12.0).
+     * Version CC2018 d'Adobe Premiere Pro (version 12.1.2).
      */
-    public static final String VERSION_CC2018 = "?";
+    public static final String VERSION_CC2018 = "35";
 
     /**
      * Version CC2018 d'Adobe Premiere Pro (version 13.0).
      */
-    public static final String VERSION_CC2019 = "?";
+    public static final String VERSION_CC2019 = "36";
 
     /**
      * Version CC2018 d'Adobe Premiere Pro (version 13.1).
      */
-    public static final String VERSION_CC2019_01 = "?";
+    public static final String VERSION_CC2019_01 = "36";
 
     /**
      * Version CC2018 d'Adobe Premiere Pro (version 13.1.1).
      */
-    public static final String VERSION_CC2019_02 = "?";
+    public static final String VERSION_CC2019_02 = "36";
 
     /**
      * Version CC2018 d'Adobe Premiere Pro (version 13.1.2).
      */
-    public static final String VERSION_CC2019_03 = "?";
+    public static final String VERSION_CC2019_03 = "36";
 
     /**
      * Version CC2018 d'Adobe Premiere Pro (version 13.1.3).
      */
-    public static final String VERSION_CC2019_04 = "?";
+    public static final String VERSION_CC2019_04 = "36";
 
     /**
      * Version CC2018 d'Adobe Premiere Pro (version 13.1.4).
      */
-    public static final String VERSION_CC2019_05 = "?";
+    public static final String VERSION_CC2019_05 = "37";
 
     /**
      * Version CC2018 d'Adobe Premiere Pro (version 13.1.5).
      */
-    public static final String VERSION_CC2019_06 = "?";
+    public static final String VERSION_CC2019_06 = "37";
 
     /**
-     * Version CC2020 d'Adobe Premiere Pro (version 14.0).
+     * Version CC2020 d'Adobe Premiere Pro (version 14.3.1).
      */
-    public static final String VERSION_CC2020 = "?";
+    public static final String VERSION_CC2020 = "38";
     
     /**
      * ...
