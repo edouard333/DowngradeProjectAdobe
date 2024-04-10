@@ -2,7 +2,7 @@ package com.phenix.downgraadobepremiereproject.ui;
 
 import com.phenix.adobepremiereproject.AdobePremiereProject;
 import com.phenix.adobepremiereproject.Version;
-import com.phenix.tools.swing.FileDrop;
+import com.phenix.swing.FileDrop;
 import javax.swing.JFrame;
 
 /**
@@ -24,7 +24,7 @@ public class Fenetre extends JFrame {
         new FileDrop(this,
                 files -> {
                     try {
-                        AdobePremiereProject.downgrade(files[0], Version.CC2017_1_2.toString());
+                        new AdobePremiereProject(files[0]).downgrade(Version.CC2017_1_2.toString());
                     } catch (Exception ex) {
                         ex.printStackTrace();
                     }
